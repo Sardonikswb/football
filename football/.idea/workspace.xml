@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="football:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5eb40844-9d6f-45b7-8182-8a3aedd3268c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="46401cb7-20f4-4fbf-bbc3-b47f6e145c3c" value="Green" />
+    </colors>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="football@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="football@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="football@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="football: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="football@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="football: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="football@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="football: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="football@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="football: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="club: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="football@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="football: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="sequences" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="football" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ya8sFoSkK9DQV46UzZRllmynXi" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.khodus.Dao" />
+      <recent name="by.khodus.Entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\football\src\main\webapp\img" />
+      <recent name="C:\Users\Dell\IdeaProjects\football\src\main\webapp" />
+      <recent name="C:\Users\Dell\IdeaProjects\football\src\main\webapp\jsp" />
+      <recent name="C:\Users\Dell\IdeaProjects\football\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.khodus.Config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\football\src\main\webapp" />
+      <recent name="C:\Users\Dell\IdeaProjects\football\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Dell\IdeaProjects\football\src\main\resources" />
+      <recent name="C:\Users\Dell\IdeaProjects\football\src\main\webapp\resources\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.29">
+    <configuration name="DaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="football" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.khodus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.khodus" />
+      <option name="MAIN_CLASS_NAME" value="by.khodus.DaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.checkConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="football" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.khodus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.khodus" />
+      <option name="MAIN_CLASS_NAME" value="by.khodus.DaoTest" />
+      <option name="METHOD_NAME" value="checkConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.checkService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="football" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.khodus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.khodus" />
+      <option name="MAIN_CLASS_NAME" value="by.khodus.DaoTest" />
+      <option name="METHOD_NAME" value="checkService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.searchClubsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="football" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.khodus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.khodus" />
+      <option name="MAIN_CLASS_NAME" value="by.khodus.DaoTest" />
+      <option name="METHOD_NAME" value="searchClubsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerDaoTest.searchClubsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="football" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.khodus.Dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.khodus.Dao" />
+      <option name="MAIN_CLASS_NAME" value="by.khodus.Dao.PlayerDaoTest" />
+      <option name="METHOD_NAME" value="searchClubsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.29" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.29" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/football_war/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="football:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/football_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_football" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56631" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="football:war" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DaoTest.searchClubsTest" />
+        <item itemvalue="JUnit.DaoTest" />
+        <item itemvalue="JUnit.PlayerDaoTest.searchClubsTest" />
+        <item itemvalue="JUnit.DaoTest.checkService" />
+        <item itemvalue="JUnit.DaoTest.checkConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eb40844-9d6f-45b7-8182-8a3aedd3268c" name="Default Changelist" comment="" />
+      <created>1583169549214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583169549214</updated>
+      <workItem from="1583169553394" duration="163000" />
+      <workItem from="1583220180761" duration="1733000" />
+      <workItem from="1583221957714" duration="2230000" />
+      <workItem from="1583224843744" duration="1767000" />
+      <workItem from="1583226654555" duration="1767000" />
+      <workItem from="1583228469622" duration="1767000" />
+      <workItem from="1583230288507" duration="1790000" />
+      <workItem from="1583232380308" duration="1796000" />
+      <workItem from="1583234208606" duration="1374000" />
+      <workItem from="1583236070858" duration="1781000" />
+      <workItem from="1583237886143" duration="1785000" />
+      <workItem from="1583239704230" duration="1782000" />
+      <workItem from="1583241522482" duration="1398000" />
+      <workItem from="1583244234907" duration="1776000" />
+      <workItem from="1583246048512" duration="1056000" />
+      <workItem from="1583248461609" duration="1183000" />
+      <workItem from="1583260645528" duration="1311000" />
+      <workItem from="1583262518536" duration="628000" />
+      <workItem from="1583264108854" duration="682000" />
+      <workItem from="1583267846684" duration="1017000" />
+      <workItem from="1583301645103" duration="1741000" />
+      <workItem from="1583303431753" duration="1768000" />
+      <workItem from="1583305246594" duration="1830000" />
+      <workItem from="1583307124886" duration="2223000" />
+      <workItem from="1583311000634" duration="1766000" />
+      <workItem from="1583312810966" duration="950000" />
+      <workItem from="1583313816660" duration="1804000" />
+      <workItem from="1583315670456" duration="1779000" />
+      <workItem from="1583317492703" duration="1848000" />
+      <workItem from="1583321236733" duration="1775000" />
+      <workItem from="1583323049196" duration="1649000" />
+      <workItem from="1583328606617" duration="1767000" />
+      <workItem from="1583330416966" duration="1766000" />
+      <workItem from="1583332229713" duration="1635000" />
+      <workItem from="1583334062999" duration="1554000" />
+      <workItem from="1583339251656" duration="1781000" />
+      <workItem from="1583341081351" duration="1308000" />
+      <workItem from="1583344958172" duration="1758000" />
+      <workItem from="1583346758268" duration="1770000" />
+      <workItem from="1583348564705" duration="750000" />
+      <workItem from="1583390829766" duration="1762000" />
+      <workItem from="1583392640112" duration="1733000" />
+      <workItem from="1583394447589" duration="1564000" />
+      <workItem from="1583401440670" duration="1148000" />
+      <workItem from="1583403261988" duration="1424000" />
+      <workItem from="1583405100409" duration="1068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Assign_Data_Sources" timestamp="1583233019516">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Assign_Data_Sources/0.0.1280.680@0.0.1280.680" timestamp="1583233019516" />
+    <state x="233" y="0" key="#SQL_Dialects" timestamp="1583236037420">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#SQL_Dialects/0.0.1280.680@0.0.1280.680" timestamp="1583236037420" />
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583264172671">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1583264172671" />
+    <state x="446" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1583403488582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583403488582" />
+    <state x="419" y="247" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1583237950108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="419" y="247" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1280.680@0.0.1280.680" timestamp="1583237950108" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1583341283160">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583341283160" />
+    <state width="845" height="29" key="GridCell.Tab.0.bottom" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.0.center" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.0.left" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.0.right" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.1.bottom" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.1.center" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.1.left" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.1.right" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.2.bottom" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.2.center" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.2.left" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="29" key="GridCell.Tab.2.right" timestamp="1583406242986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="29" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1583406242986" />
+    <state width="845" height="65" key="GridCell.Tab.3.bottom" timestamp="1583323472746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="65" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583323472746" />
+    <state width="845" height="65" key="GridCell.Tab.3.center" timestamp="1583323472746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="65" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1583323472746" />
+    <state width="845" height="65" key="GridCell.Tab.3.left" timestamp="1583323472746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="65" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1583323472746" />
+    <state width="845" height="65" key="GridCell.Tab.3.right" timestamp="1583323472746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="65" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1583323472746" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1583221564385">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1583221564385" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1583248802774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583248802774" />
+    <state x="502" y="230" width="322" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1583233987802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="502" y="230" width="322" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1280.680@0.0.1280.680" timestamp="1583233987802" />
+    <state x="438" y="165" width="404" height="346" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1583332412180">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="165" width="404" height="346" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1280.680@0.0.1280.680" timestamp="1583332412180" />
+    <state x="557" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1583332270032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="557" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1583332270032" />
+    <state x="405" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583393505261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="405" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1583393505261" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1583316116396">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1583316116396" />
+  </component>
+</project>
